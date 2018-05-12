@@ -1,0 +1,37 @@
+_repo: One-Act-PlaysBy-Modern-Authors_33907
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Cohen, Helen Louise
+    birthdate: 1882
+    deathdate: 1957
+    gutenberg_agent_id: '36794'
+    url: http://www.gutenberg.org/2009/agents/36794
+description: ''
+gutenberg_issued: '2010-10-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33907'
+  lccn: '21007282'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcc 'PS'
+- !lcsh 'American drama'
+- !lcsh 'English drama'
+tableOfContents: Introduction -- The boy Will / R.E. Rogers -- Beauty and the Jacobin
+  / B. Tarkington -- The Pierrot of the minute / E. Dowson -- The maker of dreams
+  / O. Down -- Gettysburg / P. MacKaye -- Wurzel-Flummery / A.A. Milne -- Maid of
+  France / H. Brighouse -- Spreading the news / Lady Augusta Gregory -- Welsh honeymoon
+  / Jeannette Marks -- Riders to the sea / J.M. Synge -- A night at an inn / Lord
+  Dunsany -- The twilight saint / S. Young -- The masque of the two strangers / Lady
+  Alix Egerton -- The intruder / M. Maeterlinck -- Fortune and men's eyes / Josephine
+  P. Peabody -- The little man / J. Galsworthy.
+title: One-Act Plays by Modern Authors
+url: http://www.gutenberg.org/ebooks/33907
