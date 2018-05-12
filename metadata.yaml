@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '36794'
     url: http://www.gutenberg.org/2009/agents/36794
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33907#One-Act-PlaysBy-Modern-Authors
 gutenberg_issued: '2010-10-24'
 gutenberg_type: Text
 identifiers:
